@@ -1,2 +1,2 @@
 # hello-world
-Here is a short description!
+I want to be strong at coding!
